@@ -1,0 +1,102 @@
+﻿[
+  {
+    "id": "service_income_certificate",
+    "name": "Income Certificate",
+    "category": "Certificates",
+    "state": "Karnataka",
+    "description": "Certificate used to verify annual family income for scholarships, fee concessions and welfare benefits.",
+    "keywords": ["income", "salary", "family income", "income certificate", "scholarship"],
+    "documents": ["Identity proof", "Address proof", "Income-related documents"],
+    "source": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "service_birth_certificate",
+    "name": "Birth Certificate",
+    "category": "Civil Registration",
+    "state": "Karnataka",
+    "description": "Official record of birth used for identity, education, passport and other government services.",
+    "keywords": ["birth", "birth certificate", "date of birth", "registration"],
+    "documents": ["Hospital record where applicable", "Parent identity proof", "Address proof"],
+    "source": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "service_driving_licence",
+    "name": "Driving Licence",
+    "category": "Transport",
+    "state": "India",
+    "description": "Government-authorized licence for operating motor vehicles.",
+    "keywords": ["driving", "licence", "license", "RTO", "vehicle"],
+    "documents": ["Identity proof", "Address proof", "Age proof"],
+    "source": "https://parivahan.gov.in/"
+  },
+  {
+    "id": "service_passport",
+    "name": "Passport",
+    "category": "Travel",
+    "state": "India",
+    "description": "Official travel document issued to eligible Indian citizens.",
+    "keywords": ["passport", "travel", "international travel", "passport application"],
+    "documents": ["Identity proof", "Address proof", "Supporting documents as applicable"],
+    "source": "https://www.passportindia.gov.in/"
+  },
+  {
+    "id": "service_pan",
+    "name": "PAN Card",
+    "category": "Tax",
+    "state": "India",
+    "description": "Permanent Account Number used for tax and financial identification.",
+    "keywords": ["PAN", "pan card", "income tax", "tax"],
+    "documents": ["Identity proof", "Address proof", "Date of birth proof"],
+    "source": "https://www.incometax.gov.in/"
+  },
+  {
+    "id": "service_ration_card",
+    "name": "Ration Card",
+    "category": "Food and Welfare",
+    "state": "Karnataka",
+    "description": "Household document used for access to applicable food-security and welfare benefits.",
+    "keywords": ["ration", "food", "food security", "BPL", "welfare"],
+    "documents": ["Identity proof", "Address proof", "Family details"],
+    "source": "https://ahara.kar.nic.in/"
+  },
+  {
+    "id": "service_caste_certificate",
+    "name": "Caste Certificate",
+    "category": "Certificates",
+    "state": "Karnataka",
+    "description": "Certificate used to establish caste or community status for applicable government benefits and reservations.",
+    "keywords": ["caste", "community", "reservation", "certificate"],
+    "documents": ["Identity proof", "Address proof", "Supporting community documents"],
+    "source": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "service_domicile",
+    "name": "Domicile / Residence Certificate",
+    "category": "Certificates",
+    "state": "Karnataka",
+    "description": "Certificate used to establish residence status for applicable government services and benefits.",
+    "keywords": ["domicile", "residence", "resident", "local resident"],
+    "documents": ["Identity proof", "Address proof", "Residence-related documents"],
+    "source": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "service_ews",
+    "name": "EWS Certificate",
+    "category": "Certificates",
+    "state": "India",
+    "description": "Income and asset-based certificate for eligible applicants seeking applicable EWS benefits.",
+    "keywords": ["EWS", "economically weaker section", "income", "reservation"],
+    "documents": ["Identity proof", "Address proof", "Income and asset documents"],
+    "source": "https://services.india.gov.in/"
+  },
+  {
+    "id": "service_vehicle_registration",
+    "name": "Vehicle Registration",
+    "category": "Transport",
+    "state": "India",
+    "description": "Registration service for motor vehicles through the applicable transport authority.",
+    "keywords": ["vehicle", "registration", "RC", "RTO", "motor vehicle"],
+    "documents": ["Vehicle documents", "Identity proof", "Address proof"],
+    "source": "https://parivahan.gov.in/"
+  }
+]

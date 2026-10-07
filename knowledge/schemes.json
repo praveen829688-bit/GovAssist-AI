@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "scheme_post_matric",
+    "name": "Post-Matric Scholarship",
+    "category": "Education",
+    "target": "Students",
+    "description": "Scholarship support for eligible students studying at post-matriculation level.",
+    "keywords": ["scholarship", "student", "college", "education", "post matric"],
+    "eligibility": "Eligibility depends on the applicable category, income criteria, course and government rules.",
+    "source": "https://scholarships.gov.in/"
+  },
+  {
+    "id": "scheme_nsp",
+    "name": "National Scholarship Portal",
+    "category": "Education",
+    "target": "Students",
+    "description": "Government platform through which eligible students can discover and apply for various scholarships.",
+    "keywords": ["NSP", "scholarship", "student", "college", "education"],
+    "eligibility": "Eligibility varies according to the individual scholarship.",
+    "source": "https://scholarships.gov.in/"
+  },
+  {
+    "id": "scheme_pm_kisan",
+    "name": "PM-KISAN",
+    "category": "Agriculture",
+    "target": "Farmers",
+    "description": "Government income-support scheme for eligible landholding farmer families subject to applicable rules.",
+    "keywords": ["farmer", "agriculture", "PM Kisan", "farmer support"],
+    "eligibility": "Eligibility is governed by PM-KISAN rules and applicable exclusions.",
+    "source": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": "scheme_ayushman",
+    "name": "Ayushman Bharat",
+    "category": "Healthcare",
+    "target": "Eligible families",
+    "description": "Government health protection programme with benefits subject to applicable scheme and state rules.",
+    "keywords": ["health", "hospital", "medical", "Ayushman", "healthcare"],
+    "eligibility": "Eligibility depends on the applicable beneficiary criteria and programme rules.",
+    "source": "https://pmjay.gov.in/"
+  },
+  {
+    "id": "scheme_beti_bachao",
+    "name": "Beti Bachao Beti Padhao",
+    "category": "Women and Children",
+    "target": "Girls and families",
+    "description": "Government initiative focused on improving the welfare, education and empowerment of girls.",
+    "keywords": ["girl", "girls", "women", "education", "child"],
+    "eligibility": "Programme implementation and benefits depend on applicable government initiatives.",
+    "source": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "scheme_pm_awas",
+    "name": "Pradhan Mantri Awas Yojana",
+    "category": "Housing",
+    "target": "Eligible households",
+    "description": "Government housing programme for eligible beneficiaries under applicable urban or rural components.",
+    "keywords": ["housing", "house", "home", "PMAY", "housing scheme"],
+    "eligibility": "Eligibility varies by PMAY component and applicable government criteria.",
+    "source": "https://pmaymis.gov.in/"
+  }
+]
